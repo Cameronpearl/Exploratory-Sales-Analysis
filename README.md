@@ -9,8 +9,11 @@ After making sure the data was clean in excel and using SQL scripts to find answ
 ## Questions to explore
 
 Firstly, I wanted to find out which product was the most profitable and how many of each product were ordered.
+
 Then I wanted to know the total sales in each city to see which cities were our most/least popular.
+
 Afterwards, I wrote a script to show the number of units sold for each product by city.
+
 Finally I was curious how much total sales vary by month.
 
 ## Answers
