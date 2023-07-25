@@ -1,19 +1,19 @@
 # Exploratory-Sales-Analysis-
 Using SQL to extract insights into sales data
 
-##overview
+## overview
 
 This project was created to practice my SQL skills. I downloaded a public dataset with sales data and uploaded it to my database in MySQL Workbench. I then used SQL to answer of the sales questions I think a company would be interested in asking. 
 After making sure the data was clean in excel and using SQL scripts to find answers about the data, I created a dashboard using Tableau to vizualize and explain the insights taken from my analysis.
 
-##Questions to explore
+## Questions to explore
 
 firstly, I wasnted to find out which product was the most profitable amd how many of each product were ordered.
 Then I wanted to know the total sales in each city to see which cities were our most/least popular
 Afterwards, I wrote a script to show the number of units sold for each product by city
 Finally I was currious how much total sales vary by month.
 
-##Answers
+## Answers
 
 The most ordered item was the 4-pack of AAA batteries while the most profitable item was the Macbook Pro Laptop. The Macbook was by far the most profitable, generating almost double the sales of the next most profitable item.
 
