@@ -7,3 +7,4 @@ This project was created to practice my SQL skills. I downloaded a public datase
 After making sure the data was clean in excel and using SQL scripts to find answers about the data, I created a dashboard using Tableau to vizualize and explain the insights taken from my analysis.
 
 ##Code used
+total sales per month.sql
